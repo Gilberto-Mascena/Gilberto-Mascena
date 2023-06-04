@@ -1,4 +1,6 @@
 ## Olá eu sou o Gilberto Mascena, desenvolvedor de conteúdo de programação e tecnologia!
+
+##
 <div align="center">
   
   <a href="https://github.com/Gilberto-Mascena">
@@ -27,19 +29,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
 
 </div>
   
-  ##
+##
   
 <div>  
   <a href="https://www.linkedin.com/in/gilberto-mascena-96393723a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
-<div>
-  <a href="https://github.com/Gilberto-Mascena/dslist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gilberto-Mascena&repo=dslist" />    
-    
-  <a href="https://github.com/Gilberto-Mascena/sts4-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gilberto-Mascena&repo=sts4-java" />  
-  
-</div> 
