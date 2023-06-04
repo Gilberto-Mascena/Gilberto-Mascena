@@ -1,4 +1,4 @@
-## Olá eu sou o Gilberto Mascena, criadoror de conteúdo de programação e tecnologia!
+## Olá eu sou o Gilberto Mascena, desenvolvedor de conteúdo de programação e tecnologia!
 <div align="center">
   
   <a href="https://github.com/Gilberto-Mascena">
