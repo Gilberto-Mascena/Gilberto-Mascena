@@ -2,7 +2,7 @@
 <div align="center">
   
   <a href="https://github.com/Gilberto-Mascena">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-Mascena&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-Mascena&show_icons=true&theme=merko&include_all_commits=true&count_private=true&show_owner=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Mascena&layout=compact&langs_count=7&theme=merko"/>
   
 </div> 
