@@ -1,4 +1,4 @@
-## Olá eu sou o Gilberto Mascena, desenvolvedor de conteúdo de programação e tecnologia!
+## Olá eu sou o Gilberto Mascena, desenvolvedor de conteúdo de programação, Hackintosh e tecnologia!
 
 ##
 <div align="center">
