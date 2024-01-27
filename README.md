@@ -26,7 +26,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
   <img align="center" alt="Gilberto Mascena-ShellScript" height="30" width="40"     
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Gilberto Mascena-spring" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+          
           
 
 </div>
