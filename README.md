@@ -7,7 +7,7 @@
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-Mascena&show_icons=true&theme=merko&include_all_commits=true&count_private=true&show_owner=true&locale=en"/>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Mascena&layout=compact&langs_count=10&theme=merko&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Mascena&layout=compact&langs_count=10&theme=merko&locale=en"/>
   </a>
   
 </div>
