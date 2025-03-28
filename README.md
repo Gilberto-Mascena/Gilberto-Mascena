@@ -5,9 +5,10 @@
   
   <a href="https://github.com/Gilberto-Mascena">
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-Mascena&show_icons=true&theme=merko&include_all_commits=true&count_private=true&show_owner=true&locale=en"/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Mascena&layout=compact&langs_count=10&theme=merko&locale=en"/>
+ 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gilberto-Mascena&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&show_owner=true&locale=en"/> 
+  
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Mascena&layout=compact&langs_count=10&theme=chartreuse-dark&locale=en"/>
   </a>
   
 </div>
