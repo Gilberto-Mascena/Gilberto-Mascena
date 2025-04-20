@@ -65,6 +65,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.s
  <a href = "mailto:contato@mascenadev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gilberto-Mascena/Gilberto-Mascena/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gilberto-Mascena/Gilberto-Mascena/output/github-contribution-grid-snake.svg">
