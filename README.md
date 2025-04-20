@@ -64,3 +64,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.s
   <a href="https://br.linkedin.com/in/gilberto-mascena-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:contato@mascenadev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
